@@ -66,4 +66,4 @@ Some of the analysis questions explored in this project:
 - Find cast members from Pakistani movies
 - Find the top 10 cast members in Pakistani movies
 - Categorize content based on words in descriptions
-- Count content by category
+- Count content by category.

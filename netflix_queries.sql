@@ -6,7 +6,7 @@ COUNT (*) as total_content
 FROM netflix
 GROUP BY types;
 
--- 2. Find the most common rating for movies and TV shows
+-- 2. Find the most common rating for movies and TV shows.
 
 SELECT types, rating
 FROM (
